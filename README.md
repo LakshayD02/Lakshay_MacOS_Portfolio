@@ -9,7 +9,7 @@ A stunning, interactive macOS-inspired portfolio website built with Next.js and 
 
 ## 👨‍💻 Demo
 
-Demo Link: [https://lakshaydhoundiyal.cloud/](https://lakshaydhoundiyal.cloud/)
+Demo Link: [https://lakshay-macos.vercel.app/](https://lakshay-macos.vercel.app/)
 
 ### ✨ Features
 
@@ -24,7 +24,6 @@ Demo Link: [https://lakshaydhoundiyal.cloud/](https://lakshaydhoundiyal.cloud/)
   - Mail (contact link)
   - GitHub (profile link)
   - Spotify (music player)
-  - YouTube (video channel)
   - FaceTime (video chat demo)
   - Snake (just for fun)
   - Weather (mock data)
@@ -33,19 +32,19 @@ Demo Link: [https://lakshaydhoundiyal.cloud/](https://lakshaydhoundiyal.cloud/)
 - 📱 Almost fully responsive design
 - ⚡ Fast and optimized performance
 
-#### 🚀 Getting Started
+## 🚀 Getting Started
 
-##### Prerequisites
+### Prerequisites
 
 - Node.js 16.x or higher
 - npm or yarn
 
-##### Installation
+### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/LakshayD02/Lakshay_MacOS_Portfolio.git
 cd macos-portfolio
 ```
 
@@ -93,17 +92,14 @@ Update your social media links in:
 
 ## 🙏 Acknowledgments
 
-- Special thanks to [Renovamen](https://github.com/Renovamen/playground-macos) for the original inspiration for this macOS-themed portfolio concept.
+- Special thanks to [Renovamen](https://github.com/Renovamen/playground-macos) for the original inspiration
 - Icons from [Lucide React](https://lucide.dev/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
-- Initial layout jump-started with v0 — [V0/Vercel](https://v0.dev/)
 - Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
 
 ## 📧 Contact
 
-Lakshay Dhoundiyal - [lakshaydhoundiyal0@gmail.com](mailto:lakshaydhoundiyal0@gmail.com)
-
-Project Link: [https://github.com/LakshayD02/macos-portfolio](https://github.com/LakshayD02/macos-portfolio)
+**Lakshay Dhoundiyal** - [lakshaydhoundiyal0@gmail.com](mailto:lakshaydhoundiyal0@gmail.com)
 
 ### 🔗 Connect With Me
 
@@ -115,5 +111,7 @@ Project Link: [https://github.com/LakshayD02/macos-portfolio](https://github.com
 
 ---
 
-<p align="center"><sub>Made by Lakshay Dhoundiyal | Full Stack Developer & Cyber Security Researcher</sub></p>
-``
+<p align="center">
+  Made with ❤️ by Lakshay Dhoundiyal | Full Stack Developer & Cyber Security Researcher
+</p>
+```
