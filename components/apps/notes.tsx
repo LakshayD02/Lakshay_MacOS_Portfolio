@@ -60,7 +60,7 @@ Score - 93%
 - Hackathons: https://lakshay-hackathons.vercel.app
 
 ### Connect With Me
-- Website: https://lakshaydhoundiyal.cloud/
+- Website: https://lakshay-3d-website.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/lakshay-dhoundiyal-531b25259
 - GitHub: https://github.com/LakshayD02
 - Blogs: https://lakshaydhoundiyal.hashnode.dev/
@@ -235,6 +235,12 @@ Book a 1:1 session: https://topmate.io/lakshay_dhoundiyal`,
       content: `# Important Links
 
 ## Portfolio & Socials
+
+My Resume (Full Stack)
+https://drive.google.com/file/d/1nzE2slNJkp_4OJazDRCIjJuSKGSpFSdr/view?usp=drive_link
+
+My Resume (Cybersecurity)
+https://drive.google.com/file/d/1pYXeIRTJuu6jn8Sm-umsBqdyDIoHzSXl/view?usp=drive_link
 
 Main Portfolio
 https://lakshay-3d-website.netlify.app/
