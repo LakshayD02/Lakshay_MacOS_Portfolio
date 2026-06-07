@@ -53,6 +53,12 @@ Score - 93%
 - Web Developer - IT Cell, ARSD
 - Student Representative - Student Faculty Committee
 
+### Quick Links
+- Internships/Experience: https://lakshay-internships.vercel.app
+- Publications: https://lakshay-dhoundiyal-publications.vercel.app
+- Projects: https://lakshay-projects.vercel.app
+- Hackathons: https://lakshay-hackathons.vercel.app
+
 ### Connect With Me
 - Website: https://lakshaydhoundiyal.cloud/
 - LinkedIn: https://www.linkedin.com/in/lakshay-dhoundiyal-531b25259
@@ -114,7 +120,7 @@ Maximum Virtual and Remote Internships Completed by an Individual in Different D
 https://indiabookofrecords.in/maximum-virtual-and-remote-internships-completed-by-an-individual-in-different-domains/
 
 ## Professional Network
-- 22k+ connections across professional platforms
+- 23k+ connections across professional platforms
 - Active engagement in tech communities
 
 ## Technical Blogging
@@ -231,9 +237,9 @@ Book a 1:1 session: https://topmate.io/lakshay_dhoundiyal`,
 ## Portfolio & Socials
 
 Main Portfolio
-https://lakshaydhoundiyal.cloud/
+https://lakshay-3d-website.netlify.app/
 
-LinkedIn (22k+ network)
+LinkedIn (23k+ network)
 https://www.linkedin.com/in/lakshay-dhoundiyal-531b25259
 
 GitHub
@@ -244,6 +250,18 @@ https://lakshaydhoundiyal.hashnode.dev/
 
 Beacons Page
 https://beacons.ai/lakshaydhoundiyal/home
+
+## Internships & Experience
+https://lakshay-internships.vercel.app
+
+## Publications
+https://lakshay-dhoundiyal-publications.vercel.app
+
+## Projects
+https://lakshay-projects.vercel.app
+
+## Hackathons
+https://lakshay-hackathons.vercel.app
 
 ## Recognition
 
