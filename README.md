@@ -92,7 +92,6 @@ Update your social media links in:
 
 ## 🙏 Acknowledgments
 
-- Special thanks to [Renovamen](https://github.com/Renovamen/playground-macos) for the original inspiration
 - Icons from [Lucide React](https://lucide.dev/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
@@ -103,7 +102,7 @@ Update your social media links in:
 
 ### 🔗 Connect With Me
 
-- Website: [https://lakshaydhoundiyal.cloud/](https://lakshaydhoundiyal.cloud/)
+- Website: [https://lakshay-3d-website.netlify.app/](https://lakshay-3d-website.netlify.app/)
 - LinkedIn: [https://www.linkedin.com/in/lakshay-dhoundiyal-531b25259](https://www.linkedin.com/in/lakshay-dhoundiyal-531b25259)
 - GitHub: [https://github.com/LakshayD02](https://github.com/LakshayD02)
 - Blogs: [https://lakshaydhoundiyal.hashnode.dev/](https://lakshaydhoundiyal.hashnode.dev/)
